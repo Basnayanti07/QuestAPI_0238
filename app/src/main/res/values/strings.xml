@@ -7,5 +7,9 @@
     <string name="nama1">Nama Siswa</string>
     <string name="Alamat1">Alamat siswa</string>
     <string name="tanggal1">Tanggal</string>
+    <string name="required_filed">required_filed</string>
+    <string name="btn_submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="update">Edit</string>
 
 </resources>
