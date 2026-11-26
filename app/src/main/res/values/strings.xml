@@ -11,5 +11,9 @@
     <string name="btn_submit">Submit</string>
     <string name="delete">Hapus</string>
     <string name="update">Edit</string>
+    <string name="detail_siswa">Detail_Siswa</string>
+    <string name="edit_siswa">Edit_Siswa</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
 
 </resources>
